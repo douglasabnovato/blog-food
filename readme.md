@@ -10,8 +10,8 @@
 
 #### Requisitos
 
-- [ ] design personalizado
-- [ ] responsividade
+- [x] design personalizado
+- [x] responsividade
 - [ ] favicon
 
 #### Telas
