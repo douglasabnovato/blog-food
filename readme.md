@@ -12,7 +12,7 @@
 
 - [x] design personalizado
 - [x] responsividade
-- [ ] favicon
+- [x] favicon
 
 #### Telas
 
