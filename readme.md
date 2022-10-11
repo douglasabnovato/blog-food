@@ -30,11 +30,6 @@
 
 #### Inspirações para aperfeiçoamentos  
 
-- [Clube de café](https://www.graogourmet.com/)
-- [História de café](https://www.clubecafe.net.br/historia-cafe)
-- [Origem do café](https://www.mokaclube.com.br/blog/origem-do-cafe/)
-- [Poemas de café](https://www.mokaclube.com.br/blog/poemas-com-cafe/)
-- [Cafeterias em SP](https://tudosobrecafe.com/melhores-cafeterias-de-sao-paulo)
-- [Guia do café](https://simonde.com.br/o-guia-definitivo-dos-melhores-cafes-de-sao-paulo-sp/)
-- [Baristas](https://revistamenu.com.br/os-melhores-baristas-do-mundo-em-disputa-no-brasil/)
-
+- [Receitas](https://www.receiteria.com.br/receitas-de-sanduiche/)
+- [Entrevista da Chef](https://exame.com/pme/como-paola-carosella-se-tornou-cozinheira-e-empreendedora/)
+- [o que é cozinhar para você?](https://www.google.com/search?q=o+que+%C3%A9+cozinhar+para+voc%C3%AA&bih=657&biw=1366&rlz=1C1SQJL_pt-BRBR785BR785&hl=en&sxsrf=ALiCzsblZ7fN_PE8CHnIddMOnLZMLeiJCA%3A1665497276906&ei=vHhFY-33Ntb35OUP08iy8AI&ved=0ahUKEwjtxcHsrNj6AhXWO7kGHVOkDC4Q4dUDCA8&uact=5&oq=o+que+%C3%A9+cozinhar+para+voc%C3%AA&gs_lcp=Cgdnd3Mtd2l6EANKBAhBGABKBAhGGABQAFgAYPwBaABwAXgAgAGWAYgBlgGSAQMwLjGYAQCgAQHAAQE&sclient=gws-wiz)
